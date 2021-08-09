@@ -1,0 +1,6 @@
+*.log
+*.tmp
+System log/
+build/
+dist/
+__pycache__/
