@@ -5,3 +5,4 @@ System log/
 build/
 dist/
 __pycache__/
+vs/

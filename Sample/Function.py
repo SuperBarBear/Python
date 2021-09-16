@@ -1,3 +1,5 @@
+import ClassTest
+
 presidents = ["Washington", "Adams", "Jefferson",
               "Madison", "Monroe", "Adams", "Jackson"]
 
